@@ -74,18 +74,6 @@ class TextViewDemo extends StatelessWidget {
         ),
       ),
     ));
-    GestureDetector(
-      child: Container(),
-      onTap: () {
-
-      },
-      onDoubleTap: () {
-
-      },
-      onLongPress: () {
-
-      },
-    )
 
   }
 
